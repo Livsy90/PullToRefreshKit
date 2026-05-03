@@ -4,6 +4,8 @@
 
 Unlike SwiftUI's built-in `.refreshable`, this component lets you render a fully custom refresh indicator and react to each stage of the pull-to-refresh lifecycle.
 
+https://github.com/user-attachments/assets/e04e2ee5-6a70-4f8a-ae46-281aa1453140
+
 ## Requirements
 
 - iOS 18+
